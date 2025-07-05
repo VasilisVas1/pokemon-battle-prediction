@@ -78,13 +78,6 @@ Actual       0        1
 - **Recall**: 0.95 (strong true positive detection)
 - **F1-Score**: 0.95 (excellent harmonic mean)
 
-## Business Applications
-
-1. **Game Strategy**: Team composition optimization
-2. **Balance Analysis**: Identifying overpowered Pokemon combinations
-3. **Competitive Gaming**: Tournament bracket predictions
-4. **Game Development**: Balancing new Pokemon releases
-
 ## Key Insights
 
 ### What Makes a Pokemon Win?
