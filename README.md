@@ -40,8 +40,8 @@ pip install pandas numpy scikit-learn xgboost matplotlib seaborn
 ### Quick Start
 1. Clone the repository
 2. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/lmno3418/pokedex-pokemon-data)
-3. Run the preprocessing notebook: `01_data_preprocessing.ipynb`
-4. Train models with: `02_model_training.ipynb`
+3. Run the preprocessing notebook: `Pre-Processing.ipynb`
+4. Train models with: `Training.ipynb`
 
 ## Feature Engineering Highlights
 
